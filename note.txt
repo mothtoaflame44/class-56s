@@ -1,0 +1,6 @@
+
+............Access Modifier...........
+
+1. public => The property or method can be accessed from everywhere. (Own class, Child class, Global Scope)
+2. protected => The property or method can be accessed within the class and child class (Own class, Child Class)
+3. private => The property or method can be accessed only within the class (Own Class)
